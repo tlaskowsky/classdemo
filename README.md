@@ -1,0 +1,2 @@
+- spa-animation: zero trust spa demo
+- trad-animation: traditional security demo
