@@ -1,2 +1,0 @@
-# classdemo
-various demo apps
